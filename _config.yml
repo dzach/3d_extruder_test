@@ -3,7 +3,6 @@
 ##
 ## The data below is left as an example.  Please change each entry to match your requirements. 
 ## 
-source: template
 ## Uses distinct namespace. Jekyll settings should go at the root level.
 githubiverse:
     ## Metadata
