@@ -1,6 +1,3 @@
-3d_extruder_test
-==============
-
 3D printer extruder performance test
 
 Most (new) 3D printer owners would like to know what the maximum print speed of their printer is. So what's easier, we set the feed rate high, choose a nice object or one made for calibration and print we go. If the object prints nicely and there are no missing steps at the extruder or any other motor, then declare the new record and live happily ever after. Or not?
