@@ -9,13 +9,13 @@ githubiverse:
     title: "3D Extruder Test"
     author: dzach
     license: GPL3
-    tags: [3D printing, extruder, test]
+    tags: [3D printing, extruder, testing, stl]
 
     ## Github project parameters.
     github:
         base: https://github.com/
         user: dzach
-        repository: 3d_extruder_test
+        repository: dzach/3d_extruder_test
         branch: master
 
     ## The names of directories where any images, source and stl files associated with the project can be found.
