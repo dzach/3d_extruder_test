@@ -15,7 +15,7 @@ githubiverse:
     github:
         base: https://github.com/
         user: dzach
-        repository: dzach/3d_extruder_test
+        repository: dzach\/3d_extruder_test
         branch: master
 
     ## The names of directories where any images, source and stl files associated with the project can be found.
